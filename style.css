@@ -2222,7 +2222,7 @@ footer {
   }
 
   .yellow-text {
-    color: #04fd19;
+    color: #fdfd04;
   }
 
   .hero-subtitle {
@@ -2851,6 +2851,7 @@ footer {
     justify-content: center;
   }
 
+
 /* ===== RESPONSIVE - ≤360px ===== */
 @media (max-width: 360px) {
   .container {
@@ -3030,7 +3031,7 @@ footer {
 }
 
 /* ============================================================= */
-@media (max-width: 300px) {
+@media (max-width: 250px) {
   .logo {
     margin-left: -5px;
     margin-top: -4px;
