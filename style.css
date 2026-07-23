@@ -2249,7 +2249,7 @@ footer {
   .hero-buttons .btn-secondary {
     font-size: 14px;
     width: 400px;
-    padding: 5px 0px 5px 0px;
+    padding: 5px 5px 5px 0px;
     text-align: center;
   }
 
@@ -2257,7 +2257,7 @@ footer {
   .lang-en .hero-buttons .btn-secondary {
     font-size: 14px;
     width: 150px;
-    padding: 5px 0px 5px 0px;
+    padding: 5px 5px 5px 0px;
     text-align: center;
   }
 
