@@ -3031,7 +3031,7 @@ footer {
 }
 
 /* ============================================================= */
-@media (max-width: 280px) {
+@media (max-width: 300px) {
   .logo {
     margin-left: -5px;
     margin-top: -4px;
