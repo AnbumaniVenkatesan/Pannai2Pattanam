@@ -2850,7 +2850,6 @@ footer {
   .lang-en .footer-social {
     justify-content: center;
   }
-}
 
 /* ===== RESPONSIVE - ≤360px ===== */
 @media (max-width: 360px) {
