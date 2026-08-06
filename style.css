@@ -2163,7 +2163,7 @@ footer {
 }
 
 /* ===== RESPONSIVE - ≤480px ===== ============================================*/
-@media (max-width: 480px) {
+@media (max-width: 450px) {
   .container {
     padding: 0 14px;
   }
@@ -2206,6 +2206,7 @@ footer {
   .hero .container {
     padding-top: 80px;
     padding-bottom: 60px;
+    padding-left: 9px;
   }
 
   .hero {
@@ -2248,7 +2249,7 @@ footer {
   .hero-buttons .btn-primary,
   .hero-buttons .btn-secondary {
     font-size: 14px;
-    width: 350px;
+    min-width: 350px;
     padding: 5px 5px 5px 0px;
     text-align: center;
   }
@@ -2866,6 +2867,7 @@ footer {
   .hero .container {
     padding-top: 90px;
     padding-bottom: 50px;
+    padding-left: 5px;
   }
 
   .hero-content h1 {
